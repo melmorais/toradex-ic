@@ -1,0 +1,16 @@
+{
+    "deps": [
+        "python3-smbus2",
+        "python3-numpy",
+        "python3-scipy"
+        
+
+    ],
+    "devDeps": [
+        "python3-smbus2",
+        "python3-numpy",
+        "python3-scipy"
+        
+
+    ]
+}
